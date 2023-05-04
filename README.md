@@ -11,8 +11,7 @@
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krutaxe&layout=compact)](https://github.com/levgross/github-readme-stats)
 ### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/krutaxe/badges/large)
+![codewars](https://www.codewars.com/users/krutaxe/badges)
 
 -
 [![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white)](https://t.me/krutaxe)&nbsp;&nbsp;
