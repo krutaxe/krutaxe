@@ -11,9 +11,12 @@
                     
 ----
 
----
+![Github stats](https://github-readme-stats.vercel.app/api?username=krutaxe&hide=stars,prs,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krutaxe&layout=compact)](https://github.com/levgross/github-readme-stats)
+
+----
 
 ![codewars](https://www.codewars.com/users/krutaxe/badges/small)
 
----
+----
 
