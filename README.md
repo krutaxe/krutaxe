@@ -16,7 +16,7 @@
 
 ---
 
-![codewars](https://www.codewars.com/users/krutaxe/badges/large)
+![codewars](https://www.codewars.com/users/krutaxe/badges/small)
 
 ---
 
